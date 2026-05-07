@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/puravgada/Desktop/stitch_underrot_apparel_website/deploy"
+publishOrigin = "default"
+base = "/Users/puravgada/Desktop/stitch_underrot_apparel_website/deploy"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
