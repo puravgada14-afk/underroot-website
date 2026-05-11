@@ -97,6 +97,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://underroot.com/blog.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://underroot.com/blog-how-to-find-garment-manufacturer-india.html</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
